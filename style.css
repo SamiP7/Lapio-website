@@ -1,3 +1,15 @@
-p {
-	background-color: red;
+* {
+	color: red;
+}
+
+h1 {
+	color: blue;
+}
+
+.purp {
+	color: purple;
+}
+
+#purppura-kohta {
+	color:purple;
 }
